@@ -30,6 +30,8 @@ By using **SAT**, disaster managers can develop scenarios of disaster impacts (p
 
 **[6]** Helps launch SMS campaigns from single window to impart survival instructions & actionability plans in case of no Internet connectivity.
 
+**[7]** **SAT** also addresses the problem of real-time data collection of the hazard-affected areas by curating data and aiding Disaster Manager in devising an informed plan.
+
 ![](Infograph.png )
 
 # Technology Stack
